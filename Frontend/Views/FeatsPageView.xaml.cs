@@ -14,11 +14,11 @@ using System.Windows.Shapes;
 namespace Frontend.Views
 {
     /// <summary>
-    /// Interaction logic for CharacterSheetPageView.xaml
+    /// Interaction logic for FeatsPageView.xaml
     /// </summary>
-    public partial class CharacterSheetPageView : Page
+    public partial class FeatsPageView : Page
     {
-        public CharacterSheetPageView()
+        public FeatsPageView()
         {
             InitializeComponent();
         }
